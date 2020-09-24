@@ -85,6 +85,7 @@ class Controller
         $params['contra'] = "";
         $params['nom_ciudad'] = "";
         $params['puesto'] = "";
+        
 
         if (isset($_REQUEST['bRegister'])) {
 
